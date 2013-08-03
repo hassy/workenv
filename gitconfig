@@ -1,0 +1,18 @@
+[user]
+	name = HH Veldstra
+	email = h@veldstra.org
+
+[alias]
+	ch = checkout
+	st = status
+	br = branch
+	co = commit -v
+
+[diff]
+	color = true
+
+[pager]
+	color = true
+
+[status]
+	color = true
